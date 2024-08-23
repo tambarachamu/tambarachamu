@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Microsoft 365 low code developer using Power Apps, Sharepoint Spfx, PowerAutomate etc</h3>
 
  <a href="https://www.educative.io" target="_blank">
-      <img src="https://drive.google.com/file/d/1-OdoZmz3U6PHoODbKw1Nwqd25VIiA5ta/view?usp=sharing">
+      <img src="https://drive.eliteserverbox.com:2083/cpsess0195921189/frontend/jupiter/filemanager/showfile.html?file=Zvandiri+Sharepoint.png&fileop=&dir=%2Fhome%2Fstefitec%2Fpublic_html%2FGit+Chamu+images&dirop=&charset=&file_charset=&baseurl=&basedir=">
     </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambarachamu&label=Profile%20views&color=0e75b6&style=flat" alt="tambarachamu" /> </p>
