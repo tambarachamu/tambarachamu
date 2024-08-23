@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chamunorwa Tambara</h1>
 <h3 align="center">A passionate Microsoft 365 low code developer using Power Apps, Sharepoint Spfx, PowerAutomate etc</h3>
 
+ <a href="https://www.educative.io" target="_blank">
+      <img src="https://www.educative.io/static/imgs/logos/logoMarkv2.png">
+    </a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambarachamu&label=Profile%20views&color=0e75b6&style=flat" alt="tambarachamu" /> </p>
 
 - 🔭 I’m currently working on **Sharepoint INTRANET Project**
